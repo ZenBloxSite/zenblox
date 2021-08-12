@@ -3,7 +3,7 @@
     "@context" : "http://schema.org",
     "@type" : "Organization",
     "name" : "Roblox",
-    "url" : "https://www.roblox.com/",
+    "url" : "https://zenbloxsite.github.io/zenblox//",
     "logo": "https://images.rbxcdn.com/cece570e37aa8f95a450ab0484a18d91",
     "sameAs" : [
     "https://www.facebook.com/roblox/",
