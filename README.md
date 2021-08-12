@@ -5,6 +5,36 @@
 
 
 
+<div class="Navigation">
+						<span><a id="ctl00_hlMyRoblox" class="MenuItem" href="User.aspx">My ZenBlox</a></span>
+						<span class="Separator">&nbsp;|&nbsp;</span>
+						<span><a id="ctl00_hlGames" class="MenuItem" href="Games.aspx">Games</a></span>
+						<span class="Separator">&nbsp;|&nbsp;</span>
+						<span><a id="ctl00_hlCatalog" class="MenuItem" href="Catalog.aspx">Catalog</a></span>
+						<span class="Separator">&nbsp;|&nbsp;</span>
+                        <span><a id="ctl00_hlBuildersClub" class="MenuItem" href="Upgrades/BuildersClub.aspx">Builders Club</a></span>
+						<span class="Separator">&nbsp;|&nbsp;</span>
+						<span><a id="ctl00_hlBrowse" class="MenuItem" href="Browse.aspx">Browse</a></span>
+						<span class="Separator">&nbsp;|&nbsp;</span>
+						<span><a id="ctl00_hlForum" class="MenuItem" href="Forum/Default.aspx">Forum</a></span>
+						<span class="Separator">&nbsp;|&nbsp;</span>
+						<span><a id="ctl00_hlNews" class="MenuItem" href="https://web.archive.org/web/20080117153343/http://blog.roblox.com/" target="_blank">News</a>&nbsp;<a id="ctl00_hlNewsFeed" href="https://web.archive.org/web/20080117153343/http://blog.roblox.com/?feed=rss"><img src="/web/20080117153343im_/http://www.roblox.com/images/feed-icons/feed-icon-14x14.png" border="0"></a></span>
+						<span class="Separator">&nbsp;|&nbsp;</span>
+						<span><a id="ctl00_hlParents" class="MenuItem" href="Parents.aspx">Parents</a></span>
+						<span class="Separator">&nbsp;|&nbsp;</span>
+						<span><a id="ctl00_hlHelp" class="MenuItem" href="https://web.archive.org/web/20080117153343/http://wiki.roblox.com/" target="_blank">Help</a></span>
+ 					</div>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
